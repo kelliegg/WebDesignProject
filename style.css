@@ -1,0 +1,91 @@
+body{
+	text-align:center;
+	font-family: 'Satisfy', cursive;
+	
+}
+.jumbotron{
+	background-attachment:fixed;
+	min-height:680px;
+	margin-bottom:0px;
+	background-image:url('images/dublin.jpg');
+	color:white;
+	width:100%;
+	background-position:center center;
+	font-size:90px;
+	
+}
+
+.alt2{
+	min-height:70px;
+	color:#4B0082;
+	min-width:100px;
+	font-size:20px;
+}
+.navbar{
+	font-size:25px;
+}
+.navbar-brand{
+	font-size:30px;
+}
+.jumbotron1{
+	background-attachment:fixed;
+	min-height:400px;
+	margin-bottom:0px;
+	background-image:url('images/audience.jpg');
+	background-position:center;
+	
+}
+.alt1{
+	background:#f9f5d2;
+	min-height:230px;
+	font-size:30px;
+}
+.slider{
+	width:1140px;
+	height:770px;
+	text-align:center;
+}
+.jumbotron2{
+	background-attachment:fixed;
+	min-height:400px;
+	margin-bottom:0px;
+	background-image:url('images/finger.jpg');
+	background-position:center;
+	
+}
+.social{
+	min-height:60px;
+	width:60px;
+}
+.intro{
+	font-size:27px;
+	background-color:#f9f5d2;
+}
+.contact{
+	font-size:20px;
+}
+.skills{
+	min-height:110px;
+	width:110px;
+}
+.alt3{
+	font-size:23px;
+	background-color:#f9f5d2;
+}
+.me{
+	min-height:300px;
+	width:300px;
+	border-radius:200px 200px 200px 200px;
+}
+.link{
+	min-height:40px;
+	width:40px;
+	
+}
+.button{
+	font-size:30px;
+}
+.click{
+	color:black;
+	font-size:30px;
+}
